@@ -6,3 +6,6 @@ mat-card-header{
 mat-card-title{
     text-align:center;
 }
+mat-card{
+    background-color: black;
+}
